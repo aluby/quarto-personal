@@ -1,0 +1,37 @@
+---
+title: Teaching
+---
+
+## At Swarthmore:
+
+Stat011: Statistical Methods I
+
+-   Spring 2022
+
+-   Spring 2021
+
+-   Fall 2019
+
+Stat021: Statistical Methods II
+
+-   Fall 2021
+
+Stat041: Topics in Applied Statistics: Statistical Graphics and Data Visualization
+
+-   January Term 2021 [\[Course Website\]](https://aluby.domains.swarthmore.edu/stat041/)
+
+Stat051: Probability
+
+-   Spring 2020
+
+## Elsewhere:
+
+Stat225: Introduction to Probability Theory (Carnegie Mellon University)
+
+-   Summer 2018
+
+-   Summer 2017
+
+Stat309: Experimental Design for Behavioral and Social Sciences (Carnegie Mellon University)
+
+-   Summer 2016

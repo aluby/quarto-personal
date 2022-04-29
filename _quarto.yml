@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    background: light
+    twitter-card: true
+    search: false
+    right:
+      - text: "Home"
+        file: index.qmd
+      - research.qmd
+      - teaching.qmd 
+      - students.qmd
+    page-footer: "Copyright 2022, Amanda Luby" 
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+
+editor: visual
+

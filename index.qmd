@@ -1,0 +1,41 @@
+---
+title: "Amanda Luby"
+about:
+  template: trestles
+  image: luby.jpg
+  links:
+    - icon: twitter
+      href: https://twitter.com/amandaluby
+    - icon: github
+      href: https://github.com/aluby
+    - icon: fingerprint
+      href: https://forensicstats.org/
+    - icon: file-earmark-pdf-fill
+      href: https://aluby.domains.swarthmore.edu/files/cv.pdf
+---
+
+I am an Assistant Professor of Statistics at Swarthmore College, on sabbatical for the 22/23 academic year. I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
+
+I'm also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.
+
+I'm currently seeking new collaborations in the social and criminal justice space. Please get in touch if you'd like to work together on a quantitative project in this realm.
+
+## Upcoming:
+
+-   July 2022: Presenting at the International Meeting of the Psychometric Society
+
+-   August 2022: Presenting at the Joint Statistical Meetings
+
+-   AY 22/23: I'm on research leave!
+
+-   Oct-Nov 2022: Visiting the Netherlands Forensic Institute
+
+## Recent (ish):
+
+-   April 2022: \`\`[Think-aloud interviews: A tool for exploring student statistical reasoning](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209)" was accepted for publication at JSDSE!
+
+-   Feb 2022: Presented \`\`Measuring Proficiency Among Latent Print Examiners: A Statistical Approach From Standardized Testing" at the American Academy of Forensic Sciences Annual Scientific Conference
+
+-   Sept 2021: Gave the Center for Practice and Research at the Intersection of Information, Society, and Methodology (PRIISM) Seminar at New York University
+
+-   Gave the [April 2021 CSAFE webinar](https://forensicstats.org/event/webinar-irt-for-forensics-a-re-analysis-of-the-fbi-black-box-study/) (nearly 400 registrants!)
