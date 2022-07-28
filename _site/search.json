@@ -25,7 +25,7 @@
     "href": "research.html#refereed-proceedings",
     "title": "Publications",
     "section": "Refereed Proceedings",
-    "text": "Refereed Proceedings\nAmanda Luby and Riley Thompson†, “Modeling Covarying Responses in Complex Tasks”. Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang. To Appear.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometrics for Forensic Fingerprint Comparisons,” Quantitative Psychology: The 85th Meeting of the Psychometric Society, 2021. Edited by Wiberg, M., Culpepper, S.A., Janssen, R., González, J., & Molenaar, D."
+    "text": "Refereed Proceedings\nAmanda Luby and Riley Thompson†, “Modeling Covarying Responses in Complex Tasks”. Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometrics for Forensic Fingerprint Comparisons,” Quantitative Psychology: The 85th Meeting of the Psychometric Society, 2021. Edited by Wiberg, M., Culpepper, S.A., Janssen, R., González, J., & Molenaar, D."
   },
   {
     "objectID": "research.html#book-chapters-and-other-reports",
@@ -39,7 +39,7 @@
     "href": "research.html#peer-reviewed-research-articles",
     "title": "Publications",
     "section": "Peer-reviewed research articles:",
-    "text": "Peer-reviewed research articles:\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022+, To appear.\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021+, To appear.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257"
+    "text": "Peer-reviewed research articles:\nAlex Reinhart, Ciaran Evans, Amanda Luby, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent “Think-aloud interviews: A tool for exploring student statistical reasoning” Journal of Statistics and Data Science Education, 2022. 30(2).\nShannon Gallagher*, Kayla Frisoli*, Amanda Luby*, “Opening up the court (surface) in tennis grand slams”, Journal of Quantitative Analysis in Sports, 2021. 17(4), 255-271.\nAmanda Luby, Anjali Mazumder, Brian Junker, “Psychometric Analysis of Forensic Examiner Behavior”, Behaviormetrika, 2020. 47, 355-384.\nAmanda Luby, Joseph B Kadane, “Proficiency testing of fingerprint examiners with Bayesian Item Response Theory,” Law, Probability & Risk, 2018. 17(2), 111-121.\nAmanda Luby, “Strengthening Analyses of Lineup Procedures: A log-linear model framework,” Law, Probability & Risk, 2017. 16(4), 241–257."
   },
   {
     "objectID": "research.html#in-progress",
@@ -67,7 +67,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Stat011: Statistical Methods I\n\nSpring 2022\nSpring 2021\nFall 2019\n\nStat021: Statistical Methods II\n\nFall 2021\n\nStat041: Topics in Applied Statistics: Statistical Graphics and Data Visualization\n\nJanuary Term 2021 [Course Website]\n\nStat051: Probability\n\nSpring 2020"
+    "text": "Stat011: Statistical Methods I\n\nSpring 2022 [Visual Syllabus]\nSpring 2021 [Visual Syllabus]\nFall 2019\n\nStat021: Statistical Methods II\n\nFall 2021 [Visual Syllabus]\n\nStat041: Topics in Applied Statistics: Statistical Graphics and Data Visualization\n\nJanuary Term 2021 [Course Website] [Syllabus]\n\nStat051: Probability\n\nSpring 2020"
   },
   {
     "objectID": "teaching.html#elsewhere",
@@ -102,7 +102,7 @@
     "href": "students.html",
     "title": "Students",
     "section": "",
-    "text": "My research group is located at Swarthmore College and focused on the measurement and analysis of forensic-decision-making processes. We primarily work with latent print examination applied to proficiency testing and the FBI “Black Box” and “White Box” studies.\nOpportunities for current Swarthmore students include:\nInterested students should contact me for further information. Desired prerequisites are Stat021 (Statistical Methods II) and Stat051 (Probability), but if you have some coding experience or are especially interested in forensics problems, please be in touch! Students willing to work with the team for multiple semesters will be given priority.\nIf you are a researcher at Swarthmore College or another institution looking to collaborate, please contact me"
+    "text": "My research group is located at Swarthmore College and focused on the measurement and analysis of forensic-decision-making processes. We primarily work with latent print examination applied to proficiency testing and the FBI “Black Box” and “White Box” studies.\nOpportunities for current Swarthmore students include:\nInterested students should contact me for further information. Desired prerequisites are Stat021 (Statistical Methods II) and Stat051 (Probability), but if you have some coding experience or are especially interested in forensics problems, please be in touch! Students willing to work with the team for multiple semesters will be given priority.\nIf you are a researcher at Swarthmore College or another institution looking to collaborate, please contact me."
   },
   {
     "objectID": "students.html#highlights",
@@ -116,7 +116,7 @@
     "href": "students.html#students",
     "title": "Students",
     "section": "Students",
-    "text": "Students\n\n\n\n\n\n\n\n\nHorace Shew ’22\nHorace is a Mathematics major with an Emphasis in Statistics along with a Classics minor. He focused on the implementation and comparison of various IRT models within a Bayesian and Frequentist framework in Summer 2021, and completed a project on modeling tennis outcomes with Bayesian hierarchical models during the 2021/2022 academic school year.\n\n\n\nRiley Thompson ’22\nRiley is a Mathematics major with an Emphasis in Statistics and a minor in Peace and Conflict Studies. Her research focused on covarying responses in IRT models and consistency of fingerprint examiner conclusions.\n\n\n\nThomas Daillak ’22\nThomas is an honors major in Mathematics and Economics. His research with the group focused on clustering methods for marked minutiae and IRT without an answer key.\n\n\n\nSherry Huang ’23\nSherry is a Mathematics major with an Emphasis in Statistics and Computer Science Minor. Sherry worked on a project on imputation bias in minutiae marking by fingerprint examiners, including building an interactive visualization app.\n\n\n\nAlyssa Zhang ’24\nAlyssa is a Mathematics and Computer Science double major. She worked on analyzing survey responses and demographic information of fingerprint examiners who participated in the FBI studies."
+    "text": "Students\n\n\n\n\n\n\n\n\nSarah Conley ’24\nSarah is a Mathematics major with an emphasis in Statistics, and a Computer Science major. She spent Summer 2022 analyzing how different scoring schemes and partial credit models impact the types of conclusions that can be drawn.\n\n\n\nSherry Huang ’23\nSherry is a Mathematics major with an Emphasis in Statistics and Computer Science Minor. Sherry worked on a project on imputation bias in minutiae marking by fingerprint examiners, including building an interactive visualization app\n\n\n\nAlyssa Zhang ’24\nAlyssa is a Mathematics and Computer Science double major. She worked on analyzing survey responses and demographic information of fingerprint examiners who participated in the FBI studies."
   },
   {
     "objectID": "students.html#support",
@@ -124,5 +124,19 @@
     "title": "Students",
     "section": "Support",
     "text": "Support\nProjects have been supported by:\n\nThe Center for Statistics and Applications in Forensic Evidence CSAFE, a NIST-funded Center of Excellence\nThe Lang Center for Civic and Social Responsibility at Swarthmore College\nSwarthmore College Academic Division Summer Funding"
+  },
+  {
+    "objectID": "students.html#alumni",
+    "href": "students.html#alumni",
+    "title": "Students",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\n\n\n\n\nHorace Shew ’22\nFinancial Analyst at Caine Mitter & Associates, Inc.\nHorace graduated with a Mathematics major with an Emphasis in Statistics along with a Classics minor. He focused on the implementation and comparison of various IRT models within a Bayesian and Frequentist framework in Summer 2021, and completed a project on modeling tennis outcomes with Bayesian hierarchical models during the 2021/2022 academic school year.\n\n\n\nRiley Thompson ’22\nSenior Research Assistant at the Federal Reserve Bank of Philadelphia\nRiley graduated with a Mathematics major with an Emphasis in Statistics and minors in Peace and Conflict Studies and Cognitive Science. Her research focused on covarying responses in IRT models and consistency of fingerprint examiner conclusions.\n\n\n\nThomas Daillak ’22\nAnalyst at Analysis Group\nThomas graduated with an honors major in Mathematics and Economics. His research with the group focused on clustering methods for marked minutiae and IRT without an answer key."
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nMaria Cuellar, Jacqueline Mauro, and Amanda Luby, “A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system” arXiv 2111.03762. In Revision"
   }
 ]

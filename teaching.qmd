@@ -6,19 +6,19 @@ title: Teaching
 
 Stat011: Statistical Methods I
 
--   Spring 2022
+-   Spring 2022 \[[Visual Syllabus](files/stat011-s22-visual.pdf)\]
 
--   Spring 2021
+-   Spring 2021 \[[Visual Syllabus](files/stat011-s21-visual.pdf)\]
 
 -   Fall 2019
 
 Stat021: Statistical Methods II
 
--   Fall 2021
+-   Fall 2021 \[[Visual Syllabus](files/stat021-f21-visual.pdf)\]
 
 Stat041: Topics in Applied Statistics: Statistical Graphics and Data Visualization
 
--   January Term 2021 [\[Course Website\]](https://aluby.domains.swarthmore.edu/stat041/)
+-   January Term 2021 [\[Course Website\]](https://aluby.domains.swarthmore.edu/stat041/) \[[Syllabus](files/stat041-j21-visual.pdf)\]
 
 Stat051: Probability
 

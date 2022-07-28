@@ -6,28 +6,28 @@ title: Publications
 
 † *Denotes undergraduate co-author*
 
+## Preprints
+
+Maria Cuellar, Jacqueline Mauro, and **Amanda Luby**, "[A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system](https://arxiv.org/abs/2111.03762)" arXiv 2111.03762. *In Revision*
+
 ## Peer-reviewed research articles:
 
-Alex Reinhart, Ciaran Evans, **Amanda Luby**, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent "[Think-aloud interviews: A tool for exploring student statistical reasoning](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209)" *Journal of Statistics and Data Science Education*, 2022+, *To appear.*
+Alex Reinhart, Ciaran Evans, **Amanda Luby**, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent "[Think-aloud interviews: A tool for exploring student statistical reasoning](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209)" *Journal of Statistics and Data Science Education*, 2022. 30(2).
 
-Shannon Gallagher\*, Kayla Frisoli\*, **Amanda Luby**\*, "[Opening up the court (surface) in tennis grand slams](https://aluby.domains.swarthmore.edu/files/tennis-paper.pdf)", *Journal of Quantitative Analysis in Sports*, 2021+, *To appear*.
+Shannon Gallagher\*, Kayla Frisoli\*, **Amanda Luby**\*, "[Opening up the court (surface) in tennis grand slams](https://aluby.domains.swarthmore.edu/files/tennis-paper.pdf)", *Journal of Quantitative Analysis in Sports*, 2021. 17(4), 255-271.
 
-**Amanda Luby**, Anjali Mazumder, Brian Junker, "[Psychometric Analysis of Forensic Examiner Behavior](https://link.springer.com/article/10.1007/s41237-020-00116-6)", *Behaviormetrika*, 2020. 47, 355-384
+**Amanda Luby**, Anjali Mazumder, Brian Junker, "[Psychometric Analysis of Forensic Examiner Behavior](https://link.springer.com/article/10.1007/s41237-020-00116-6)", *Behaviormetrika*, 2020. 47, 355-384.
 
-**Amanda Luby**, Joseph B Kadane, "[Proficiency testing of fingerprint examiners with Bayesian Item Response Theory](https://aluby.domains.swarthmore.edu/files/luby-kadane-proficiency.pdf)," *Law, Probability & Risk*, 2018. 17(2), 111-121
+**Amanda Luby**, Joseph B Kadane, "[Proficiency testing of fingerprint examiners with Bayesian Item Response Theory](https://aluby.domains.swarthmore.edu/files/luby-kadane-proficiency.pdf)," *Law, Probability & Risk*, 2018. 17(2), 111-121.
 
-**Amanda Luby**, "[Strengthening Analyses of Lineup Procedures: A log-linear model framework](https://aluby.domains.swarthmore.edu/files/luby-lineups.pdf)," *Law, Probability & Risk, 2017*. 16(4), 241--257
+**Amanda Luby**, "[Strengthening Analyses of Lineup Procedures: A log-linear model framework](https://aluby.domains.swarthmore.edu/files/luby-lineups.pdf)," *Law, Probability & Risk, 2017*. 16(4), 241--257.
 
 ## Refereed Proceedings
 
-**Amanda Luby** and Riley Thompson†, "Modeling Covarying Responses in Complex Tasks". *Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022*. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang. T*o Appear*.
+**Amanda Luby** and Riley Thompson†, "Modeling Covarying Responses in Complex Tasks". *Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022*. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang.
 
 **Amanda Luby**, Anjali Mazumder, Brian Junker, "[Psychometrics for Forensic Fingerprint Comparisons](https://aluby.domains.swarthmore.edu/files/luby-imps2020.pdf)," *Quantitative Psychology: The 85th Meeting of the Psychometric Society, 2021*. Edited by Wiberg, M., Culpepper, S.A., Janssen, R., González, J., & Molenaar, D.
 
 ## Book Chapters and Other Reports
 
 **Amanda Luby**, "[Decision Making in Forensic Identification Tasks](https://sctyner.github.io/OpenForSciR/decision-making.html)," *Open Forensic Science in R*, 2019. Edited by Sam Tyner and Heike Hofmann.
-
-## In progress
-
-Maria Cuellar, Jacqueline Mauro, and **Amanda Luby**, "[A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system](https://arxiv.org/abs/2111.03762)" arXiv 2111.03762. *In Revision*
