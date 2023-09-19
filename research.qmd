@@ -2,15 +2,17 @@
 title: Publications
 ---
 
+Links to my current publications are available here. If you are having trouble accessing any papers, please let me know and I will be happy to share an author copy with you.
+
 \* *Denotes equal contribution*
 
 † *Denotes undergraduate co-author*
 
-## Preprints
-
-Maria Cuellar, Jacqueline Mauro, and **Amanda Luby**, "[A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system](https://arxiv.org/abs/2111.03762)" arXiv 2111.03762. *In Revision*
-
 ## Peer-reviewed research articles:
+
+**Amanda Luby**, "[A method for quantifying individual decision thresholds of fingerprint examiners](https://www.sciencedirect.com/science/article/pii/S2589871X2300027X)," *Forensic Science International: Synergy,* 7:100340, 2023.
+
+Maria Cuellar, Jacqueline Mauro, and **Amanda Luby**, "[A probabilistic formalization of contextual bias in forensic analysis: Evidence that examiner bias leads to systemic bias in the criminal justice system](https://arxiv.org/abs/2111.03762)" *Journal of the Royal Statistical Society Series A - Statistics in Society,* 185(2), 2022.
 
 Alex Reinhart, Ciaran Evans, **Amanda Luby**, Josue Orellana, Mikaela Meyer, Jerzy Wieczorek, Peter Elliott, Philipp Burckhardt, Rebecca Nugent "[Think-aloud interviews: A tool for exploring student statistical reasoning](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209)" *Journal of Statistics and Data Science Education*, 2022. 30(2).
 
@@ -24,10 +26,16 @@ Shannon Gallagher\*, Kayla Frisoli\*, **Amanda Luby**\*, "[Opening up the court 
 
 ## Refereed Proceedings
 
-**Amanda Luby** and Riley Thompson†, "Modeling Covarying Responses in Complex Tasks". *Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022*. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang.
+**Amanda Luby**, Thomas Daillak^†^, Sherry Huangk^†^, "[A Comparison of IRT-based Methods for Spatial Responses](https://link.springer.com/chapter/10.1007/978-3-031-27781-8_31)". *Quantitative Psychology: The 87th Meeting of the Psychometric Society,* 2023. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang.
+
+**Amanda Luby** and Riley Thompson^†^, "[Modeling Covarying Responses in Complex Tasks](https://link.springer.com/chapter/10.1007/978-3-031-04572-1_6)". *Quantitative Psychology: The 86th Meeting of the Psychometric Society, 2022*. Edited by Wiberg, M., Molenaar, D., Gonzalez, J., Kim, J-S., H. Hwang.
 
 **Amanda Luby**, Anjali Mazumder, Brian Junker, "[Psychometrics for Forensic Fingerprint Comparisons](https://aluby.domains.swarthmore.edu/files/luby-imps2020.pdf)," *Quantitative Psychology: The 85th Meeting of the Psychometric Society, 2021*. Edited by Wiberg, M., Culpepper, S.A., Janssen, R., González, J., & Molenaar, D.
 
 ## Book Chapters and Other Reports
 
 **Amanda Luby**, "[Decision Making in Forensic Identification Tasks](https://sctyner.github.io/OpenForSciR/decision-making.html)," *Open Forensic Science in R*, 2019. Edited by Sam Tyner and Heike Hofmann.
+
+## In Progress
+
+**Amanda Luby,** Erwin Mattijssen, "Reporting styles of firearms examiners," *In preparation.*

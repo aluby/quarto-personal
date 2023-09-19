@@ -1,41 +1,51 @@
 ---
 title: "Amanda Luby"
+subtitle: aluby1 [at] swarthmore dot edu
 about:
+  id: hero-heading
   template: trestles
   image: luby.jpg
   links:
-    - icon: twitter
-      href: https://twitter.com/amandaluby
     - icon: github
+      text: Github
       href: https://github.com/aluby
     - icon: fingerprint
+      text: CSAFE
       href: https://forensicstats.org/
     - icon: file-earmark-pdf-fill
+      text: CV
       href: https://aluby.domains.swarthmore.edu/files/cv.pdf
+    - icon: mortarboard-fill
+      text: Scholar
+      href: https://scholar.google.com/citations?user=C4ha274AAAAJ&hl=en
 ---
 
-I am an Assistant Professor of Statistics at Swarthmore College, on sabbatical for the 22/23 academic year. I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
+:::{#hero-heading}
+I am an Assistant Professor of Statistics at Swarthmore College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
 
 I'm also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.
 
-I'm currently seeking new collaborations in the social and criminal justice space. Please get in touch if you'd like to work together on a quantitative project in this realm.
+I'm always seeking new collaborations in the social and criminal justice space. Please get in touch if you'd like to work together on a quantitative project in this realm!
+
+I use she/her pronouns, and my last name is pronounced "loo-bee". 
+:::
+
 
 ## Upcoming:
 
--   July 2022: Presenting at the International Meeting of the Psychometric Society
+- Fall 2023: I'm teaching Mathematical Statistics I at Swarthmore
 
--   August 2022: Presenting at the Joint Statistical Meetings
-
--   AY 22/23: I'm on research leave!
-
--   Oct-Nov 2022: Visiting the Netherlands Forensic Institute
+- Oct 2023: I'll be the October presenter in Swarthmore's [Faculty Lecture Series](https://www.swarthmore.edu/provosts-office/2023-2024-lectures)
 
 ## Recent (ish):
 
--   April 2022: \`\`[Think-aloud interviews: A tool for exploring student statistical reasoning](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2063209)" was accepted for publication at JSDSE!
+- August 2023: Presented in a forensics session (and caught up with old friends!) at JSM in Toronto
 
--   Feb 2022: Presented \`\`Measuring Proficiency Among Latent Print Examiners: A Statistical Approach From Standardized Testing" at the American Academy of Forensic Sciences Annual Scientific Conference
+- August 2023: Gave a presentation on Item Response Theory at the International Association for Identification annual educational meeting in Baltimore
 
--   Sept 2021: Gave the Center for Practice and Research at the Intersection of Information, Society, and Methodology (PRIISM) Seminar at New York University
+- June 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the [International Conference for Forensic Inference and Statistics](https://www.law.lu.se/#!ICFIS) in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis. 
 
--   Gave the [April 2021 CSAFE webinar](https://forensicstats.org/event/webinar-irt-for-forensics-a-re-analysis-of-the-fbi-black-box-study/) (nearly 400 registrants!)
+-   April 2023: Gave a talk at the NYU Biostat seminar
+
+-   Oct-Nov 2022: I was a visiting researcher at the Netherlands Forensic Institute during my sabbatical leave. I worked with the Statistics & Methodology group and the Big Data Analysis group, along with firearms researchers.
+

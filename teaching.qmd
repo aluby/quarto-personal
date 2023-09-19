@@ -2,6 +2,8 @@
 title: Teaching
 ---
 
+Current students can take a look at recent syllabi here to get a sense of what my classes are like, but you can generally expect a collaborative classroom where you'll learn real-world data analysis skills alongside statistical theory. If you are an instructor of a similar course, please reach out and I am happy to share materials with you.
+
 ## At Swarthmore:
 
 Stat011: Statistical Methods I
@@ -24,14 +26,18 @@ Stat051: Probability
 
 -   Spring 2020
 
-## Elsewhere:
+Stat061: Mathematical Statistics I
 
-Stat225: Introduction to Probability Theory (Carnegie Mellon University)
+-   Fall 2023 \[[Course Github](https://github.com/aluby/STAT61-F23)\]
+
+## At Carnegie Mellon:
+
+Stat225: Introduction to Probability Theory
 
 -   Summer 2018
 
 -   Summer 2017
 
-Stat309: Experimental Design for Behavioral and Social Sciences (Carnegie Mellon University)
+Stat309: Experimental Design for Behavioral and Social Sciences
 
 -   Summer 2016

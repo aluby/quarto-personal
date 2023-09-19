@@ -24,10 +24,15 @@ body {
 }
 
 .title {
-  margin-top: 2.75em;
   margin-bottom: 0.75em;
   font-family: 'Courgette';
   font-size: 50px;
+}
+
+.subtitle {
+  margin-bottom: 0.75em;
+  font-family: 'Atkinson Hyperlegible';
+  font-size: 16px;
 }
 
 h1, h2, h3 {

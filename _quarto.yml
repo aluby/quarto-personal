@@ -1,6 +1,8 @@
 project:
   type: website
 
+from: markdown+emoji
+
 website:
   title: ""
   navbar:
@@ -13,7 +15,7 @@ website:
       - research.qmd
       - teaching.qmd 
       - students.qmd
-    page-footer: "Copyright 2022, Amanda Luby" 
+  page-footer: "Amanda Luby, 2022 <br/> Made with :coffee: and quarto" 
 
 format:
   html:
