@@ -1,0 +1,56 @@
+/* css styles */
+
+
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   HTML theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+/* This must remain at the top of this file.                 */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Courgette');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+body {
+    font-family: 'Atkinson Hyperlegible';
+    font-size: 16px;
+}
+
+.title {
+  margin-bottom: 0.75em;
+  font-family: 'Courgette';
+  font-size: 50px;
+}
+
+.subtitle {
+  margin-bottom: 0.75em;
+  font-family: 'Atkinson Hyperlegible';
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  font-family: 'Courgette';
+  font-style: normal;
+  text-transform: capitalize; 
+}
+
+/*------------Table of Contents (TOC)----------- */
+
+
+.tocify {
+  font-size: 16px;
+}
+
+.list-group-item.active, 
+.list-group-item.active:hover{
+  color: #ffffff;
+  background-color: #004242;
+  border-color: #ccc;
+}
