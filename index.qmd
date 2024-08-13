@@ -1,6 +1,6 @@
 ---
 title: "Amanda Luby"
-subtitle: aluby1 [at] swarthmore dot edu
+subtitle: aluby [at] carleton dot edu
 about:
   id: hero-heading
   template: trestles
@@ -14,14 +14,14 @@ about:
       href: https://forensicstats.org/
     - icon: file-earmark-pdf-fill
       text: CV
-      href: https://aluby.domains.swarthmore.edu/files/cv.pdf
+      href: ~/files/cv.pdf
     - icon: mortarboard-fill
       text: Scholar
       href: https://scholar.google.com/citations?user=C4ha274AAAAJ&hl=en
 ---
 
 :::{#hero-heading}
-I am an Assistant Professor of Statistics at Swarthmore College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
+I am an Assistant Professor of Statistics at Carleton College and a researcher with the Center for Statistics and Applications in Forensic Evidence. I primarily work on statistical methods for understanding complex decision-making, often using Bayesian tools. Right now, my work focuses on adapting and advocating for Item Response Theory-flavored models for forensic science, particularly in fingerprint analysis.
 
 I'm also interested in statistics pedagogy, particularly in trying to better understand (and fix!) misconceptions among introductory students, and better integrating computing, applications, and theory in upper-level courses.
 
@@ -33,19 +33,14 @@ I use she/her pronouns, and my last name is pronounced "loo-bee".
 
 ## Upcoming:
 
-- Fall 2023: I'm teaching Mathematical Statistics I at Swarthmore
-
-- Oct 2023: I'll be the October presenter in Swarthmore's [Faculty Lecture Series](https://www.swarthmore.edu/provosts-office/2023-2024-lectures)
+- Fall 2024: I'm now at Carleton College! 
 
 ## Recent (ish):
 
-- August 2023: Presented in a forensics session (and caught up with old friends!) at JSM in Toronto
+- March 2024: [Methodological Problems in Every Black-Box Study of Forensic Firearm Comparisons](https://arxiv.org/abs/2403.17248) is available on arXiv. (Joint work with Maria Cuellar, Susan Vanderplas, Michael Rosenblum)
 
-- August 2023: Gave a presentation on Item Response Theory at the International Association for Identification annual educational meeting in Baltimore
+- February 2024: Presented "An Empirical Approach to Inconclusives in Forensic Black Box Studies" at the North Sea Group Seminar on Legal Evidence and Proof. (Joint work with Jay Kadane)
 
 - June 2023: I was awarded the Stephen E Fienberg Young Investigator award for Best Project at the [International Conference for Forensic Inference and Statistics](https://www.law.lu.se/#!ICFIS) in Lund, Sweden. I presented joint work with Erwin Mattijssen (NFI) on applying IRT to firearms analysis. 
 
--   April 2023: Gave a talk at the NYU Biostat seminar
-
--   Oct-Nov 2022: I was a visiting researcher at the Netherlands Forensic Institute during my sabbatical leave. I worked with the Statistics & Methodology group and the Big Data Analysis group, along with firearms researchers.
 
